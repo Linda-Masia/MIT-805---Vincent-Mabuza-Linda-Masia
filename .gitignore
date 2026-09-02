@@ -1,0 +1,15 @@
+# Dataset files
+data/raw/*.parquet
+data/working/*.parquet
+data/processing/*.parquet
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env

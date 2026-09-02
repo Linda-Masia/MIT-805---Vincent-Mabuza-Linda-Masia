@@ -130,7 +130,7 @@ def get_remote_file_size(url):
 # GENERATE MONTHS FROM MOST RECENT BACKWARDS
 # ============================================================
 
-def generate_recent_months(max_months=60):
+def generate_recent_months(max_months=180):
     """
     Generates months starting from the current month and moving
     backwards.
