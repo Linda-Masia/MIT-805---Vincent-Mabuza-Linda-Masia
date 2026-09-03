@@ -1,0 +1,7 @@
+requests
+pyspark
+pandas
+matplotlib
+seaborn
+jupyter
+pyarrow
