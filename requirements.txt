@@ -4,4 +4,4 @@ pandas
 matplotlib
 seaborn
 jupyter
-boto3
+pyarrow
