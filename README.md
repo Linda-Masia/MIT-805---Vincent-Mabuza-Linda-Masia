@@ -3,8 +3,8 @@
 **MIT 805: Big Data Group Project (2026) – Part 1: Data Collection & Analysis**
 
 ### Authors
-* **Vincent Mabuza** (u10633244)
-* **Linda Masia** (u21607363)
+* **Vincent Mabuza**
+* **Linda Masia**
 
 ---
 
